@@ -1,0 +1,199 @@
+C:\Users\USUB\desktop\Kneipe\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\USUB\desktop\Kneipe\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\USUB\desktop\Kneipe\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\WindowTisch1.g.cs
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\App.g.cs
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\WindowTisch1.baml
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\USUB\desktop\Kneipe\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\WindowTisch1.g.cs
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\WindowTisch1.baml
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\USUB\Desktop\Kneipe2\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\WindowTisch1.g.cs
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\WindowTisch1.baml
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\USUB\Desktop\Kneipe3\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\WindowTisch1.g.cs
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\WindowTisch1.baml
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\USUB\Desktop\Kneipe4\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\App.g.cs
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\BelegWindow.g.cs
+C:\Users\USUB\Desktop\Kneipe5\Kneipe\obj\Debug\BelegWindow.baml
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\BelegWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\BelegWindow.baml
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\Kneipe5\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\BelegWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\BelegWindow.baml
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.pdb
+E:\Alpen\Kneipe5\Kneipe\bin\Debug\Kneipe.exe.config
+E:\Alpen\Kneipe5\Kneipe\bin\Debug\Kneipe.exe
+E:\Alpen\Kneipe5\Kneipe\bin\Debug\Kneipe.pdb
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\BelegWindow.g.cs
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\MainWindow.g.cs
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\App.g.cs
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\BelegWindow.baml
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\MainWindow.baml
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.g.resources
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.CoreCompileInputs.cache
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.exe
+E:\Alpen\Kneipe5\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\BelegWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\BelegWindow.baml
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\Neuer Ordner\Kneipe5\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\BelegWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\BelegWindow.baml
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\Kneipe6\Kneipe\obj\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\bin\Debug\Kneipe.exe.config
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\bin\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\bin\Debug\Kneipe.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\BelegWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\MainWindow.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\App.g.cs
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\BelegWindow.baml
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\MainWindow.baml
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe.g.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Wendland\Kneipe6\Kneipe\obj\Debug\Kneipe.pdb
+D:\2022_1\googledrive\Kneipe6\Kneipe\bin\Debug\Kneipe.exe.config
+D:\2022_1\googledrive\Kneipe6\Kneipe\bin\Debug\Kneipe.exe
+D:\2022_1\googledrive\Kneipe6\Kneipe\bin\Debug\Kneipe.pdb
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe.csproj.AssemblyReference.cache
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\BelegWindow.g.cs
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\MainWindow.g.cs
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\App.g.cs
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe_MarkupCompile.cache
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe_MarkupCompile.lref
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\BelegWindow.baml
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\MainWindow.baml
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe.g.resources
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe.Properties.Resources.resources
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe.csproj.GenerateResource.cache
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe.csproj.CoreCompileInputs.cache
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe.exe
+D:\2022_1\googledrive\Kneipe6\Kneipe\obj\Debug\Kneipe.pdb
